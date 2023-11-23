@@ -1,0 +1,9 @@
+p{
+    font-family: 'Ubuntu';
+    font-size: 45px;   
+    /* Px is 1/96 of inch */
+    line-height: 20px;
+}
+span{
+    font-weight: bold;
+}

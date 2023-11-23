@@ -1,0 +1,15 @@
+p{
+    border: 2px solid black;
+}
+#redelement
+{
+    color: aqua;
+}
+.bg{
+background-color: black;
+color: rgb(77, 212, 62);
+}
+/*Grouping selector */
+footer,span{
+    background-color: pink;
+}
