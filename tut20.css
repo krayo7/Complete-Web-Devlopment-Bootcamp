@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+background-color: rgb(181, 231, 32);
+border: 3px solid brown;
+/* we can set margin and padding for top ,bottom,left and right liks this  */
+
+/* padding-top: 19px;
+padding-bottom: 79px; 
+padding-left: 19px; */
+
+/* padding: 23px 56px 6px 78px;  */
+/* padding = top right bottom left*/
+padding: 34px 19px; 
+/* padding: y (top/bottom) x(left/right)*/
+border-radius: 23px;
+margin: 14px 19px;
+width: 533px;
+
+}
