@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+}
+.card{
+    padding: 23px 12px;
+    /* border: 2px solid red; */
+    margin: 23px 12px;
+    background-color: antiquewhite;
+    /* box-shadow: offset-x offset-y color;
+    box-shadow: offset-x offset-y blur-radius color;
+    box-shadow: offset-x offset-y blur-radius spread radius color;
+     */
+    
+    /* box-shadow: -7px -5px 15px 10px green; */
+    /* to add shadow at top and left use negative no and for bottom and right use positive numbers */
+    /* box-shadow: -7px -5px 15px 10px rgb(106, 229, 99, 0.9); */
+    /* In RGB alpha decides color is lighr or dark */
+
+    box-shadow: inset 3px 56px greenyellow, 4px 5px red;
+}
+.card h2{
+    text-shadow: 3px 4px white;
+}
